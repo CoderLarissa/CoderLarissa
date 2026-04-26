@@ -1,9 +1,9 @@
 If you don't know who I am, let me introduce myself:
 
-My name is Larissa and, currently, I'm a sofware engineering major, who is always looking to continuosly learn and improve my skills in tech.
+My name is Larissa and, currently, I'm an undergraduate majoring in software engineering, who is always looking to continuosly learn and improve my skills in tech.
 
-- 🔭 I’m currently working on building a strong knowledge in full-stack development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Java and Spring Boot.
+- I’m currently working on building a strong knowledge in full-stack development.
+- I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Java and Spring Boot.
 <div align="center">
   <img  alt="Larissa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  alt="Larissa-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +14,7 @@ My name is Larissa and, currently, I'm a sofware engineering major, who is alway
   <img  alt="Larissa-Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" >
 </div>
 
-### Fun Facts
+<h1> Fun Facts </h1>
 - 📚I spend my spare time reading books or learning new things;
 - 🥧 I love chicken pie;
 - ➕➖➗🟰 I'm a math enthusiast;
